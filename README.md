@@ -1,5 +1,7 @@
 # Lab3
 
+Proyecto desarrollado por Daniel Sacol para la gestión de envíos y logística.
+
 ## Compilar
 
 Desde la raíz del proyecto, compila las clases Java y genera los archivos `.class` en la carpeta `bin`:
